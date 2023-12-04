@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Rumah Makan - Iga Bakar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .menu-item {
+            margin-bottom: 15px;
+        }
+
+        .item-name {
+            font-weight: bold;
+        }
+
+        .item-description {
+            color: #555;
+        }
+
+        .item-price {
+            font-weight: bold;
+            color: #e44d26; /* Orange color for price */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Menu Rumah Makan - Iga Bakar</h1>
+
+    <div class="menu-item">
+        <p class="item-name">Iga Bakar Original</p>
+        <p class="item-description">Iga bakar dengan bumbu original yang khas, disajikan dengan nasi dan sayuran.</p>
+        <p class="item-price">Rp 50.000</p>
+    </div>
+
+    <div class="menu-item">
+        <p class="item-name">Iga Bakar Madu</p>
+        <p class="item-description">Iga bakar dengan lapisan madu yang lezat, disajikan dengan nasi dan sayuran.</p>
+        <p class="item-price">Rp 55.000</p>
+    </div>
+
+    <div class="menu-item">
+        <p class="item-name">Iga Bakar Pedas</p>
+        <p class="item-description">Iga bakar dengan bumbu pedas yang menggugah selera, disajikan dengan nasi dan sayuran.</p>
+        <p class="item-price">Rp 52.000</p>
+    </div>
+
+    <!-- Tambahkan item-menu lainnya sesuai kebutuhan -->
+
+</body>
+</html>
